@@ -1,1 +1,1 @@
-console.log('小猪爱睡觉')
+console.log('爱睡觉')
