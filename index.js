@@ -1,0 +1,1 @@
+console.log('爱喝酒')
